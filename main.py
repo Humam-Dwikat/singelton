@@ -24,4 +24,3 @@ if __name__ == '__main__':
     incorrect_called = ConnectionDB()
     # correct called
     correct_call = ConnectionDB.instance()
-
